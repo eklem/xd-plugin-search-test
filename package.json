@@ -21,7 +21,7 @@
   "devDependencies": {
     "@adobe/xdpm": "^4.1.0",
     "eslint": "^7.7.0",
-    "jest": "^24.9.0",
+    "jest": "^26.4.0",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "sloc": "^0.2.1",

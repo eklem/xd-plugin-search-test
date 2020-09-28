@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@adobe/xdpm": "^4.1.0",
-    "eslint": "^7.9.0",
+    "eslint": "^7.10.0",
     "jest": "^26.4.2",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
